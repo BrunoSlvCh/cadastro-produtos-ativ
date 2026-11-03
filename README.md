@@ -1,6 +1,6 @@
 # Cadastro de Produtos
 
-Atividade acadêmica: tela de cadastro de produtos e inventário, feita com HTML, CSS e PHP, usando banco de dados MySQL.
+Atividade acadêmica Programação em Scripts: tela de cadastro de produtos e inventário, feita com HTML, CSS e PHP, usando banco de dados MySQL.
 
 ## Tecnologias
 
